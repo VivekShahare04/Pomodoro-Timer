@@ -1,4 +1,5 @@
 Timer Extension
+
 A simple yet customizable timer extension that allows you to set hours, minutes, and seconds by directly interacting with the time displayed. The timer comes with a start, pause, and reset functionality, and it plays an alarm sound when the countdown reaches zero.
 
 Features
@@ -8,6 +9,7 @@ Sound Alert: An alarm sound plays when the timer finishes.
 User-Friendly Interface: Simple design with large digits for easy interaction.
 Preloaded Alarm Sound: Ensures timely audio playback when the countdown finishes.
 Installation
+
 1. Clone or download the repository
 You can clone the repository using the following command in your terminal:
 
@@ -19,8 +21,10 @@ Alternatively, you can download the ZIP file from GitHub and extract it.
 2. Move to the project directory
 bash
 Copy code
+
 cd timer-extension
-3. Load the extension into Chrome
+
+4. Load the extension into Chrome
 Open Chrome and navigate to chrome://extensions/
 Enable Developer mode (toggle switch in the top-right corner).
 Click on Load unpacked and select the folder containing this project.
